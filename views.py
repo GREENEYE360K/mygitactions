@@ -1,6 +1,9 @@
 def view():
-    print('view')
+    print("view")
 
 
 def hide():
-    print('view')
+    print("hide")
+
+
+print(view())
